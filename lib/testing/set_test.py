@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from MySet import MySet
+from lib.MySet import MySet
 
 class TestSet:
 
